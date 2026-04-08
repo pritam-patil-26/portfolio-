@@ -8,6 +8,8 @@ A personal portfolio website showcasing my education, technical skills, projects
 This is a responsive and modern portfolio website built using HTML, CSS, and JavaScript.
 It presents my academic background, technical expertise, and project work in a clean and structured format.
 
+
+
 🚀 Features
 📄 Personal profile with contact details
 🎓 Education section with academic performance
@@ -17,11 +19,17 @@ It presents my academic background, technical expertise, and project work in a c
 📬 Contact form with basic validation
 📱 Fully responsive design
 ✨ Smooth scrolling navigation
+
+
+
 🛠️ Technologies Used
 HTML5 – Structure of the website
 CSS3 – Styling and layout (Grid, Flexbox)
 JavaScript – Interactivity and form handling
 Google Fonts – Typography enhancement
+
+
+
 📂 Project Structure
 portfolio-website/
 │
